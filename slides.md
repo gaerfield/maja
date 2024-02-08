@@ -12,10 +12,11 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
+<!-- .slide: data-background="https://i.giphy.com/fjxtRRmQLzz2xHxunC.webp"-->
 # Baby da?
 
 <!--s-->
-## Nope, noch nicht
+## Nope, immer noch nicht
 
 ¯\\(ツ)/¯
 
