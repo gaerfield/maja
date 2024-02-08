@@ -1,5 +1,5 @@
 ---
-title: reveal-md deployed to gh-pages
+title: Baby da?
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: solarized
@@ -12,8 +12,10 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-# reveal-md & github-pages
+<!--s-->
+# Baby da?
 
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+<!--s-->
+# Nope, noch nicht
+
+¯\(ツ)/¯
