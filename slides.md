@@ -12,10 +12,9 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-<!--s-->
 # Baby da?
 
 <!--s-->
-# Nope, noch nicht
+## Nope, noch nicht
 
-¯\(ツ)/¯
+¯\\(ツ)/¯
