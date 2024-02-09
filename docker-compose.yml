@@ -9,4 +9,4 @@ services:
       - 1948:1948
     working_dir: /slides
     entrypoint: node /app/bin/reveal-md.js
-    command: --preprocessor includes.js --css custom.css slides.md
+    command: slides.md
