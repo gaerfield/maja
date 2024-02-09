@@ -22,10 +22,10 @@ revealOptions:
 * Geburtsminute: 12.02.2024, 14:37 Uhr
 
 <!--s-->
-<!-- .slide: data-background="maja.png"-->
+<!-- .slide: data-background="https://photos.app.goo.gl/aPFRfJ3d5L8sFbLz6"-->
 
 <!--s-->
-<!-- .slide: data-background="maja.png"-->
+<!-- .slide: data-background="https://photos.app.goo.gl/aPFRfJ3d5L8sFbLz6"-->
 # Willkommen NAME
 
 <!--s-->
