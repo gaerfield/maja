@@ -22,10 +22,10 @@ revealOptions:
 * Geburtsminute: 12.02.2024, 14:37 Uhr
 
 <!--s-->
-<!-- .slide: data-background="https://photos.app.goo.gl/aPFRfJ3d5L8sFbLz6"-->
+<!-- .slide: data-background="https://lh3.googleusercontent.com/pw/ABLVV86zIMYA5aCyjt36vcxyFMdd8vSGtyi_Q_O8UfBUKZv442FaGge3vdNwyLGRdK5nDnTp4ZZSRO-_ufHfAfHxrj20pafkG8nwLbUE2IvjT-VugoYAULTmM7S4LO478YomcsZmezBlUj7RfKWvgCyYCJfglQ=w668-h891-s-no?authuser=0"-->
 
 <!--s-->
-<!-- .slide: data-background="https://photos.app.goo.gl/aPFRfJ3d5L8sFbLz6"-->
+<!-- .slide: data-background="https://lh3.googleusercontent.com/pw/ABLVV86zIMYA5aCyjt36vcxyFMdd8vSGtyi_Q_O8UfBUKZv442FaGge3vdNwyLGRdK5nDnTp4ZZSRO-_ufHfAfHxrj20pafkG8nwLbUE2IvjT-VugoYAULTmM7S4LO478YomcsZmezBlUj7RfKWvgCyYCJfglQ=w668-h891-s-no?authuser=0"-->
 # Willkommen NAME
 
 <!--s-->
