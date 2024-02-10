@@ -48,3 +48,7 @@ Tobi hat einen Mops gemoppst
 # 13:13 - Drogen
 
 Der halbe Klops zu Mittag hat etwas ausgelöst. Die Intensität der Wehen ist endlich sichtbar auf dem CTG und jetzt gibt's eine PDA (Sassy fieberte die letzten 10 Minuten eifrig den Schmerzmitteln entgegen).
+
+<!--s-->
+# 16:47
+ôO nach langer Pause tut sich was. Blasensprung. Und Wehenschmerzen. PDA lässt nach 3h langsam nach.
