@@ -14,6 +14,7 @@ revealOptions:
 # los gehts
 ![](https://i.giphy.com/AazbFyRAiYlry.webp)
 
+<!--s-->
 # Fun Facts
 
 * Wehen seit ca. 0 Uhr (sagt Sassy, aber ich habe da noch nichts gemerkt)
