@@ -56,3 +56,8 @@ Der halbe Klops zu Mittag hat etwas ausgelöst. Die Intensität der Wehen ist en
 <!--s-->
 # 18:35 - Finale
 eine Kurve noch
+
+<!--s-->
+# 20:20 - Zielgerade überquert
+
+
