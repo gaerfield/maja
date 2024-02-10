@@ -4,11 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>Baby da?</title>
+    <title>reveal-md</title>
     <link rel="shortcut icon" href="./favicon.ico" />
     <link rel="stylesheet" href="./dist/reset.css" />
     <link rel="stylesheet" href="./dist/reveal.css" />
-    <link rel="stylesheet" href="./dist/theme/solarized.css" id="theme" />
+    <link rel="stylesheet" href="./dist/theme/black.css" id="theme" />
     <link rel="stylesheet" href="./css/highlight/base16/zenburn.css" />
 
 
@@ -16,9 +16,24 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section data-markdown data-separator="<!--s-->" data-separator-vertical="<!--v-->">
+        <section data-markdown data-separator="\r?\n---\r?\n" data-separator-vertical="\r?\n----\r?\n">
           <textarea data-template>
-            
+            <!--s-->
+# Turtle
+Text
+<br />
+<img src="" width="400px"/>
+title: Baby da?
+separator: <!--s-->
+verticalSeparator: <!--v-->
+theme: solarized
+highlight-theme: monokai
+revealOptions:
+  controls: false
+  slideNumber: false
+  transition: 'slide'
+  backgroundTransition: 'fade'
+---
 
 # los gehts
 ![](https://i.giphy.com/AazbFyRAiYlry.webp)
@@ -38,6 +53,11 @@ wir sollen erstmal spazieren
 <br />
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86md-yfjELvJQ0bSuuAllnQevykfFGlyCbQm5FaHYIWvmSuMQsGRIoHiz-z8fc8s2A6rmc4VyGwkx5DnbIBbO2e7lBOH8evSWZSUcJ-eDl1DBmAIdbXxG4Ty6vKAV3Ko2IZMdX1MJM6LIYYy8elDgxuqg=w1080-h810-s-no-gm" width="400px"/>
 
+<!--s-->
+# 11:58
+Geduldiges Warten
+<br />
+<img src="https://lh3.googleusercontent.com/pw/ABLVV85MHfpw-4NJeA4ggTE6oEbMlXZGyAtPixvwtSpzIBVPv2zNrrmiRvw0Thd7RMUasxBqGznRr1i3ZITwAhB4gzVP1D3O-GmOV0C0SMpfCGHg_VdkKzejsHdSaVoDhMy7NM7JGjXVhYfzjShlTzyz7lujJQ=w1080-h810-s-no-gm" width="400px"/>
           </textarea>
         </section>
       </div>
@@ -84,7 +104,7 @@ wir sollen erstmal spazieren
       // options from URL query string
       var queryOptions = Reveal().getQueryHash() || {};
 
-      var options = extend(defaultOptions, {"controls":false,"slideNumber":false,"transition":"slide","backgroundTransition":"fade","_":["slides.md"],"static":"build"}, queryOptions);
+      var options = extend(defaultOptions, {"_":["slides.md"],"static":"build"}, queryOptions);
     </script>
 
 
