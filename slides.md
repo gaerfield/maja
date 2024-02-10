@@ -11,7 +11,6 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-<!--s-->
 # Projekt Maja 
 
 * ETA: 02.02.2024 - 12:00
