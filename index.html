@@ -4,11 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>reveal-md</title>
+    <title>Baby da?</title>
     <link rel="shortcut icon" href="./favicon.ico" />
     <link rel="stylesheet" href="./dist/reset.css" />
     <link rel="stylesheet" href="./dist/reveal.css" />
-    <link rel="stylesheet" href="./dist/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="./dist/theme/solarized.css" id="theme" />
     <link rel="stylesheet" href="./css/highlight/base16/zenburn.css" />
 
 
@@ -16,24 +16,9 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section data-markdown data-separator="\r?\n---\r?\n" data-separator-vertical="\r?\n----\r?\n">
+        <section data-markdown data-separator="<!--s-->" data-separator-vertical="<!--v-->">
           <textarea data-template>
-            <!--s-->
-# Turtle
-Text
-<br />
-<img src="" width="400px"/>
-title: Baby da?
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
-highlight-theme: monokai
-revealOptions:
-  controls: false
-  slideNumber: false
-  transition: 'slide'
-  backgroundTransition: 'fade'
----
+            
 
 # los gehts
 ![](https://i.giphy.com/AazbFyRAiYlry.webp)
@@ -104,7 +89,7 @@ Geduldiges Warten
       // options from URL query string
       var queryOptions = Reveal().getQueryHash() || {};
 
-      var options = extend(defaultOptions, {"_":["slides.md"],"static":"build"}, queryOptions);
+      var options = extend(defaultOptions, {"controls":false,"slideNumber":false,"transition":"slide","backgroundTransition":"fade","_":["slides.md"],"static":"build"}, queryOptions);
     </script>
 
 
