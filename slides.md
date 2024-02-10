@@ -43,3 +43,8 @@ Geduldiges Warten
 Tobi hat einen Mops gemoppst
 <br />
 <img src="https://lh3.googleusercontent.com/pw/ABLVV85LEG6px0pN2ITIzc2yn2NpTRvvM21zc40F6OiMVpxFXMlUcgVJO1H1XyqzXUr_ehsND89TjzYArVUOr0136AWjq70mDbTk-n1dslO9vWyFXnqYumhsDoZLJ5fIBq6rNyGP70RnWsmrHO0ExXgXMG_TMA=w1080-h810-s-no-gm" width="400px"/>
+
+<!--s-->
+# 13:13 - Drogen
+
+Der halbe Klops zu Mittag hat etwas ausgelöst. Die Intensität der Wehen ist endlich sichtbar auf dem CTG und jetzt gibt's eine PDA (Sassy fieberte die letzten 10 Minuten eifrig den Schmerzmitteln entgegen).
