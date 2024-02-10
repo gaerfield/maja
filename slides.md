@@ -11,5 +11,6 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-<!-- .slide: data-background="https://i.giphy.com/AazbFyRAiYlry.webp"-->
 # los gehts
+![](https://i.giphy.com/AazbFyRAiYlry.webp)
+
