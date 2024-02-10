@@ -1,8 +1,4 @@
-<!--s-->
-# Turtle
-Text
-<br />
-<img src="" width="400px"/>
+---
 title: Baby da?
 separator: <!--s-->
 verticalSeparator: <!--v-->
