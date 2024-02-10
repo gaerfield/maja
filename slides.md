@@ -14,3 +14,9 @@ revealOptions:
 # los gehts
 ![](https://i.giphy.com/AazbFyRAiYlry.webp)
 
+# Fun Facts
+
+* Wehen seit ca. 0 Uhr (sagt Sassy, aber ich habe da noch nichts gemerkt)
+* Ankunft auf Station: 7:50
+* jetzt CTG, aber ich muss draußen warten und schreibe aus Langeweile hier ein bisschen
+
