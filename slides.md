@@ -26,4 +26,5 @@ revealOptions:
 # 8:45 Uhr
 
 wir sollen erstmal spazieren
-<img src="https://photos.google.com/share/AF1QipOyuiau_9QlMH60ntDJs9DKc1hk1pvGg9xOCZq_Q2RtQvLwTmiSuGhlKduW8-Dyww/photo/AF1QipMajrZMSAzg49OgLRtB2yIDFAph83kZdX-4nE2V?key=MDV1b1VpMjJ3NUF5VzVzaFZFOEhIejdicm9Xd0FB" width="400px"/>
+<br />
+<img src="https://lh3.googleusercontent.com/pw/ABLVV86md-yfjELvJQ0bSuuAllnQevykfFGlyCbQm5FaHYIWvmSuMQsGRIoHiz-z8fc8s2A6rmc4VyGwkx5DnbIBbO2e7lBOH8evSWZSUcJ-eDl1DBmAIdbXxG4Ty6vKAV3Ko2IZMdX1MJM6LIYYy8elDgxuqg=w1080-h810-s-no-gm" width="400px"/>
